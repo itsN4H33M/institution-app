@@ -1,4 +1,4 @@
-export const academicYear = {
+export const adm_year = {
   label: "Academic Year",
   options: ["2020-21", "2021-22", "2022-23", "2023-24", "2024-25"],
 };
@@ -18,7 +18,7 @@ export const mediums = {
   options: ["Malayalam", "English"],
 };
 
-export const gender = {
+export const Gender = {
   label: "Gender",
   options: ["Male", "Female"],
 };
